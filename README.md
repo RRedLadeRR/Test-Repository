@@ -1,2 +1,2 @@
 # Test-Repository
-Ladno, poehali
+Такс. ну вроде работает
