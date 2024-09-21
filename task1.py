@@ -1,3 +1,3 @@
 #Timofey
 for i in range(1, 6):
-  print(f"{i}"*1)
+  print(f"{i} "*i)
